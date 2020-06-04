@@ -1,0 +1,9 @@
+.Stopwatch {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Stopwatch-display {
+  color: white;
+}
